@@ -29,17 +29,10 @@ Entity Extraction: SpaCy (NER).
 
 Backend: Express.js & Node.js
 
-Database:
-
-PostgreSQL: Metadata and user management.
-
-Elasticsearch: Full-text search and analytics.
+Database: MongoDB
 
 Frontend: React.js, Tailwind CSS.
 
 Infrastructure: Docker, Kafka (Message Queuing).
 
-
-
-Docker & Docker Compose
 
