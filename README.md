@@ -2,7 +2,7 @@ THREAT FORWARN
 
 
 Web Forum Threat Intelligence Scraper
-Indra's Eye is an automated threat intelligence system designed to proactively monitor web forums and discussion platforms. It detects leaked credentials, API keys, and discussions indicating planned cyber-attacks specifically targeting Indian critical infrastructure (Banking, Telecom, Power, Government).
+It is an automated threat intelligence system designed to proactively monitor web forums and discussion platforms. It detects leaked credentials, API keys, and discussions indicating planned cyber-attacks specifically targeting Indian critical infrastructure (Banking, Telecom, Power, Government).
 
 Note: This tool is for educational and defensive purposes only. The developers do not endorse illegal scraping or the use of this tool for offensive cyber operations.
 
